@@ -9,5 +9,21 @@ NOTE: This app does not persist data, the data will be reset everytime the page 
 
 ## Running the App
 
+This app was created with `npx creat-react-app`
+
 To run this app, enter `npm start` in the console. Then navigate to `localhost:3000` in
 your favorite web browser.
+
+## Updating the App
+
+This app probably should not be updated without updating the accompanying [article](https://buildbench.net/articles/react-js-hooks-clean-approach-to-state-management)
+
+### Contributing
+
+Feel free to contribute by submitting a PR.
+
+## Feedback 
+
+Please leave any feedback in the comments section of the [article](https://buildbench.net/articles/react-js-hooks-clean-approach-to-state-management)
+
+I welcome and do my best to address all feedback.
